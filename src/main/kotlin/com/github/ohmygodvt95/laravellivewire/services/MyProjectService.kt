@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.ohmygodvt95.laravellivewire.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ohmygodvt95.laravellivewire.MyBundle
 
 class MyProjectService(project: Project) {
 
